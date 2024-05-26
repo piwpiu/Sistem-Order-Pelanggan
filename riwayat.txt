@@ -1,0 +1,36 @@
+{
+Nama pelanggan: talitha
+Pesanan: 
+Double cheese burger  -  25000 berjumlah 4
+Mango float  -  12000 berjumlah 2
+Coca cola  -  5000 berjumlah 2
+Dapat diskon: 10%
+Total Bayar: 120600
+Waktu order: 10-juli-2023 14:02
+}
+{
+Nama pelanggan: kayla
+Pesanan: 
+Big mac burger  -  35000 berjumlah 2
+Dapat diskon: 0%
+Total Bayar: 70000
+Waktu order: 11-juli-2023 10:56
+}
+{
+Nama pelanggan: rafi
+Pesanan: 
+Big mac burger  -  35000 berjumlah 3
+Mango float  -  12000 berjumlah 3
+Dapat diskon: 10%
+Total Bayar: 126900
+Waktu order: 11-juli-2023 15:53
+}
+{
+Nama pelanggan: faishal 
+Pesanan: 
+Double cheese burger  -  25000 berjumlah 1
+Coca cola  -  5000 berjumlah 1
+Dapat diskon: 0%
+Total Bayar: 30000
+Waktu order: 11-juli-2023 16:23
+}
